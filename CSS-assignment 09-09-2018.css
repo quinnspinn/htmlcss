@@ -1,0 +1,43 @@
+* {
+background-color: rgb(200,200,200);
+font-family: Arial, Verdana, sans-serif;
+text-align: center;
+image-orientation: center;}
+
+li {
+display: inline;
+margin-right: 10px;}
+li.coming-soon {
+display: nine;}
+
+h1, h2, h3 {
+background-color: DarkCyan;
+color: rgb(255,255,255);
+font-weight: bold;
+text-decoration: underline;
+text-align: center;}
+
+p {
+width: 500px;
+padding: 100px;
+border: 2px solid #0088dd;
+box-align: center;
+background-color: white;
+color: #000000;
+text-align: center;
+text-size: 50%;}
+
+.center {
+padding: 70px 0;
+border: 3px solid green;}
+
+a:link {
+color: MediumAquaMarine
+text-decoration: none}
+a:visited: {
+color: deeppink;}
+a:hover { 
+color: MediumAquaMarine;
+text-decoration: underline;}
+a:active {
+color: black;} 
